@@ -4,7 +4,7 @@ const bot = new Telegraf(TOKEN);
 const express = require("express");
 const app = express()
 app.use(express.json())
-const web_link = "YOUR APP URL";
+const web_link = "https://telewebapptapp.vercel.app";
 const community_link = "https://t.me/concept_developer";
 
 
